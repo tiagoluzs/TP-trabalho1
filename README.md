@@ -9,10 +9,13 @@ Lennon da Silva Rocha
 Scripts:
 
 Compila os arquivos .java
+
 ~# jvc.sh
 
 Executa no terminal apenas o Main (lista objetos / implementções)
+
 ~# jve.terminal.sh
 
 Executa como GUI com interface completa de filtros, inclusão de objetos, etc.
+
 ~# jvc.sh
