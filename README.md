@@ -18,4 +18,4 @@ Executa no terminal apenas o Main (lista objetos / implementções)
 
 Executa como GUI com interface completa de filtros, inclusão de objetos, etc.
 
-~# jvc.sh
+~# jve.gui.sh
